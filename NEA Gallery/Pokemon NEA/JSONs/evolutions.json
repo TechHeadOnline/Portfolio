@@ -1,0 +1,434 @@
+[
+  {
+    "evolves_from": "bulbasaur",
+    "evolves_into": "ivysaur",
+    "evolves_by": "level",
+    "evolve_detail": 16
+  },
+  {
+    "evolves_from": "ivysaur",
+    "evolves_into": "venusaur",
+    "evolves_by": "level",
+    "evolve_detail": 32
+  },
+  {
+    "evolves_from": "charmander",
+    "evolves_into": "charmeleon",
+    "evolves_by": "level",
+    "evolve_detail": 16
+  },
+  {
+    "evolves_from": "charmeleon",
+    "evolves_into": "charizard",
+    "evolves_by": "level",
+    "evolve_detail": 36
+  },
+  {
+    "evolves_from": "squirtle",
+    "evolves_into": "wartortle",
+    "evolves_by": "level",
+    "evolve_detail": 16
+  },
+  {
+    "evolves_from": "blastoise",
+    "evolves_into": "blastoise",
+    "evolves_by": "level",
+    "evolve_detail": 36
+  },
+  {
+    "evolves_from": "caterpie",
+    "evolves_into": "metapod",
+    "evolves_by": "level",
+    "evolve_detail": 7
+  },
+  {
+    "evolves_from": "metapod",
+    "evolves_into": "butterfree",
+    "evolves_by": "level",
+    "evolve_detail": 10
+  },
+  {
+    "evolves_from": "weedle",
+    "evolves_into": "kakuna",
+    "evolves_by": "level",
+    "evolve_detail": 7
+  },
+  {
+    "evolves_from": "kakuna",
+    "evolves_into": "beedrill",
+    "evolves_by": "level",
+    "evolve_detail": 10
+  },
+  {
+    "evolves_from": "pidgey",
+    "evolves_into": "pidgeotto",
+    "evolves_by": "level",
+    "evolve_detail": 18
+  },
+  {
+    "evolves_from": "pidgeotto",
+    "evolves_into": "pidgeot",
+    "evolves_by": "level",
+    "evolve_detail": 36
+  },
+  {
+    "evolves_from": "rattata",
+    "evolves_into": "raticate",
+    "evolves_by": "level",
+    "evolve_detail": 20
+  },
+  {
+    "evolves_from": "spearow",
+    "evolves_into": "fearow",
+    "evolves_by": "level",
+    "evolve_detail": 20
+  },
+  {
+    "evolves_from": "ekans",
+    "evolves_into": "arbok",
+    "evolves_by": "level",
+    "evolve_detail": 22
+  },
+  {
+    "evolves_from": "pikachu",
+    "evolves_into": "raichu",
+    "evolves_by": "item",
+    "evolve_detail": "thunder_stone"
+  },
+  {
+    "evolves_from": "sandshrew",
+    "evolves_into": "sandslash",
+    "evolves_by": "level",
+    "evolve_detail": 22
+  },
+  {
+    "evolves_from": "nidoran-f",
+    "evolves_into": "nidorina",
+    "evolves_by": "level",
+    "evolve_detail": 16
+  },
+  {
+    "evolves_from": "nidorina",
+    "evolves_into": "nidoqueen",
+    "evolves_by": "item",
+    "evolve_detail": "moon_stone"
+  },
+  {
+    "evolves_from": "nidoran-m",
+    "evolves_into": "nidorino",
+    "evolves_by": "level",
+    "evolve_detail": 16
+  },
+  {
+    "evolves_from": "nidorino",
+    "evolves_into": "nidoking",
+    "evolves_by": "item",
+    "evolve_detail": "moon_stone"
+  },
+  {
+    "evolves_from": "clefairy",
+    "evolves_into": "clefable",
+    "evolves_by": "item",
+    "evolve_detail": "moon_stone"
+  },
+  {
+    "evolves_from": "vulpix",
+    "evolves_into": "ninetales",
+    "evolves_by": "item",
+    "evolve_detail": "fire_stone"
+  },
+  {
+    "evolves_from": "jigglypuff",
+    "evolves_into": "wigglytuff",
+    "evolves_by": "item",
+    "evolve_detail": "moon_stone"
+  },
+  {
+    "evolves_from": "zubat",
+    "evolves_into": "golbat",
+    "evolves_by": "level",
+    "evolve_detail": 22
+  },
+  {
+    "evolves_from": "oddish",
+    "evolves_into": "gloom",
+    "evolves_by": "level",
+    "evolve_detail": 21
+  },
+  {
+    "evolves_from": "gloom",
+    "evolves_into": "vileplume",
+    "evolves_by": "item",
+    "evolve_detail": "leaf_stone"
+  },
+  {
+    "evolves_from": "paras",
+    "evolves_into": "parasect",
+    "evolves_by": "level",
+    "evolve_detail": 24
+  },
+  {
+    "evolves_from": "venonat",
+    "evolves_into": "venomoth",
+    "evolves_by": "level",
+    "evolve_detail": 31
+  },
+  {
+    "evolves_from": "diglett",
+    "evolves_into": "dugtrio",
+    "evolves_by": "level",
+    "evolve_detail": 26
+  },
+  {
+    "evolves_from": "meowth",
+    "evolves_into": "persian",
+    "evolves_by": "level",
+    "evolve_detail": 28
+  },
+  {
+    "evolves_from": "psyduck",
+    "evolves_into": "golduck",
+    "evolves_by": "level",
+    "evolve_detail": 33
+  },
+  {
+    "evolves_from": "mankey",
+    "evolves_into": "primeape",
+    "evolves_by": "level",
+    "evolve_detail": 28
+  },
+  {
+    "evolves_from": "growlithe",
+    "evolves_into": "arcanine",
+    "evolves_by": "item",
+    "evolve_detail": "fire_stone"
+  },
+  {
+    "evolves_from": "poliwag",
+    "evolves_into": "poliwhirl",
+    "evolves_by": "level",
+    "evolve_detail": 25
+  },
+  {
+    "evolves_from": "poliwhirl",
+    "evolves_into": "poliwrath",
+    "evolves_by": "item",
+    "evolve_detail": "water_stone"
+  },
+  {
+    "evolves_from": "abra",
+    "evolves_into": "kadabra",
+    "evolves_by": "level",
+    "evolve_detail": 16
+  },
+  {
+    "evolves_from": "kadabra",
+    "evolves_into": "alakazam",
+    "evolves_by": "level",
+    "evolve_detail": 42
+  },
+  {
+    "evolves_from": "machop",
+    "evolves_into": "machoke",
+    "evolves_by": "level",
+    "evolve_detail": 28
+  },
+  {
+    "evolves_from": "machoke",
+    "evolves_into": "machamp",
+    "evolves_by": "level",
+    "evolve_detail": 40
+  },
+  {
+    "evolves_from": "bellsprout",
+    "evolves_into": "weepinbell",
+    "evolves_by": "level",
+    "evolve_detail": 21
+  },
+  {
+    "evolves_from": "weepinbell",
+    "evolves_into": "victreebel",
+    "evolves_by": "item",
+    "evolve_detail": "leaf_stone"
+  },
+  {
+    "evolves_from": "tentacool",
+    "evolves_into": "tentacruel",
+    "evolves_by": "level",
+    "evolve_detail": 30
+  },
+  {
+    "evolves_from": "geodude",
+    "evolves_into": "graveler",
+    "evolves_by": "level",
+    "evolve_detail": 25
+  },
+  {
+    "evolves_from": "graveler",
+    "evolves_into": "golem",
+    "evolves_by": "level",
+    "evolve_detail": 38
+  },
+  {
+    "evolves_from": "ponyta",
+    "evolves_into": "rapidash",
+    "evolves_by": "level",
+    "evolve_detail": 40
+  },
+  {
+    "evolves_from": "slowpoke",
+    "evolves_into": "slowbro",
+    "evolves_by": "level",
+    "evolve_detail": 37
+  },
+  {
+    "evolves_from": "magnemite",
+    "evolves_into": "magneton",
+    "evolves_by": "level",
+    "evolve_detail": 30
+  },
+  {
+    "evolves_from": "doduo",
+    "evolves_into": "dodrio",
+    "evolves_by": "level",
+    "evolve_detail": 31
+  },
+  {
+    "evolves_from": "seel",
+    "evolves_into": "dewgong",
+    "evolves_by": "level",
+    "evolve_detail": 34
+  },
+  {
+    "evolves_from": "grimer",
+    "evolves_into": "muk",
+    "evolves_by": "level",
+    "evolve_detail": 38
+  },
+  {
+    "evolves_from": "shellder",
+    "evolves_into": "cloyster",
+    "evolves_by": "item",
+    "evolve_detail": "water_stone"
+  },
+  {
+    "evolves_from": "gastly",
+    "evolves_into": "haunter",
+    "evolves_by": "level",
+    "evolve_detail": 25
+  },
+  {
+    "evolves_from": "haunter",
+    "evolves_into": "gengar",
+    "evolves_by": "level",
+    "evolve_detail": 42
+  },
+  {
+    "evolves_from": "drowzee",
+    "evolves_into": "hypno",
+    "evolves_by": "level",
+    "evolve_detail": 26
+  },
+  {
+    "evolves_from": "krabby",
+    "evolves_into": "kingler",
+    "evolves_by": "level",
+    "evolve_detail": 28
+  },
+  {
+    "evolves_from": "voltorb",
+    "evolves_into": "electrode",
+    "evolves_by": "level",
+    "evolve_detail": 30
+  },
+  {
+    "evolves_from": "exeggcute",
+    "evolves_into": "exeggutor",
+    "evolves_by": "item",
+    "evolve_detail": "leaf_stone"
+  },
+  {
+    "evolves_from": "cubone",
+    "evolves_into": "marowak",
+    "evolves_by": "level",
+    "evolve_detail": 28
+  },
+  {
+    "evolves_from": "koffing",
+    "evolves_into": "weezing",
+    "evolves_by": "level",
+    "evolve_detail": 35
+  },
+  {
+    "evolves_from": "rhyhorn",
+    "evolves_into": "rhydon",
+    "evolves_by": "level",
+    "evolve_detail": 42
+  },
+  {
+    "evolves_from": "horsea",
+    "evolves_into": "seadra",
+    "evolves_by": "level",
+    "evolve_detail": 32
+  },
+  {
+    "evolves_from": "goldeen",
+    "evolves_into": "seaking",
+    "evolves_by": "level",
+    "evolve_detail": 33
+  },
+  {
+    "evolves_from": "staryu",
+    "evolves_into": "starmie",
+    "evolves_by": "item",
+    "evolve_detail": "water_stone"
+  },
+  {
+    "evolves_from": "magikarp",
+    "evolves_into": "gyarados",
+    "evolves_by": "level",
+    "evolve_detail": 20
+  },
+  {
+    "evolves_from": "eevee",
+    "evolves_into": "vaporeon",
+    "evolves_by": "item",
+    "evolve_detail": "water_stone"
+  },
+  {
+    "evolves_from": "eevee",
+    "evolves_into": "jolteon",
+    "evolves_by": "item",
+    "evolve_detail": "thunder_stone"
+  },
+  {
+    "evolves_from": "eevee",
+    "evolves_into": "flareon",
+    "evolves_by": "item",
+    "evolve_detail": "fire_stone"
+  },
+  {
+    "evolves_from": "omanyte",
+    "evolves_into": "omastar",
+    "evolves_by": "level",
+    "evolve_detail": 40
+  },
+  {
+    "evolves_from": "kabuto",
+    "evolves_into": "kabutops",
+    "evolves_by": "level",
+    "evolve_detail": 40
+  },
+  {
+    "evolves_from": "dratini",
+    "evolves_into": "dragonair",
+    "evolves_by": "level",
+    "evolve_detail": 30
+  },
+  {
+    "evolves_from": "dragonair",
+    "evolves_into": "dragonite",
+    "evolves_by": "level",
+    "evolve_detail": 55
+  }
+]

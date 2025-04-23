@@ -1,0 +1,20 @@
+
+.Button {
+    border-radius: 20px;
+    color: #000000;
+    font-family: Garamond;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 40px;
+    background-color: #F45EC0;
+    border: solid #2B001D 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .Button:hover {
+    border: solid #2B001D 1px;
+    background: #c84199;
+ }
